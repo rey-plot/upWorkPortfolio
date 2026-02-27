@@ -85,7 +85,7 @@
  }
 
  .content p {
-     font-size: 1rem;
+     font-size: 0.9rem;
      color: #666;
      line-height: 1.5;
      margin: 0;
@@ -140,7 +140,7 @@
  }
 
  .footer-job {
-     font-size: 1rem;
+     font-size: 0.9rem;
      font-weight: 400;
      margin-left: 8px;
  }
@@ -148,7 +148,7 @@
  .footer-info {
      display: flex;
      gap: 20px;
-     font-size: 15rem;
+     font-size: 0.95rem;
      margin-bottom: 30px;
  }
 
